@@ -1,4 +1,8 @@
 # Farm2Market
+
+This is the working website : https://farm2market-u3tqdp3rfgtzwegmuqym3r.streamlit.app/
+Feel free to check it out and use it!
+
 A web-based marketplace platform connecting farmers directly to consumers, built with Streamlit and SQLite. Farm2Market aims to eliminate middlemen, ensure fair prices for farmers, and provide consumers with fresh, locally-sourced agricultural products.
 
 Features:
@@ -49,4 +53,6 @@ Reviews: Product rating and review system
 QR Codes: User and product QR code storage
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+
 
